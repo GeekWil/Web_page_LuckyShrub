@@ -13,9 +13,16 @@ h2 {
 }
 
 
-head > img{
-    display: block;
-    margin: auto;
+.headd{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.photosize {
+    width: 100%;
+    max-width: 350px;
+    height: 350px;
 }
 
 nav ul {
@@ -57,6 +64,11 @@ footer p{
     color:midnightblue;
     margin-top: 50px;
     margin-bottom: 20px;
+    text-align: center;
+    border: 2px solid black;
+    width: 270px;
+    margin: 20px auto;
+    padding: 0 7px;
 }
 
 section {
@@ -71,7 +83,28 @@ article {
 .box {
     background-color: rgb(250, 214, 170);
     border-radius: 15px;
-    padding-bottom: 250px;
+    padding-bottom: 50px;
     padding-right: 30px;
     padding-left: 30px;
+}
+
+.gallery {
+  width: 100%;
+  max-width: 350px;
+  height: 300px;
+  border-radius: 50px;
+}
+
+.footerphoto {
+  display: block;
+  width: 100%;
+  max-width: 50px;
+  height: 50px;
+}
+
+
+
+.cen {
+  display: flex;
+  justify-content: center;
 }
