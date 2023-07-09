@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(224, 226, 221);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 3 3 3 3;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+
+head > img{
+    display: block;
+    margin: auto;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer p{
+    font-size: 13px;
+    color:midnightblue
+}
+
+section {
+    display: flex;
+    margin: auto;
+}
+
+article {
+    flex: 1;
+}
