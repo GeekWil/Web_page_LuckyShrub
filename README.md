@@ -16,7 +16,7 @@
 
 <p align="center">
 Launch the utility: <br/>
-<img src="[https://i.imgur.com/llAUlDD.png](https://i.imgur.com/14bFYEi.png)" height="100%" width="100%" alt="Luckyscrub-homepage"/>
+<img src="https://i.imgur.com/14bFYEi.png" height="100%" width="100%" alt="Luckyscrub-homepage"/>
 <br />
 
 </html>
