@@ -10,12 +10,12 @@
 </head>
 
 <div class="heading">
-    <h1>LUCKY SHRUB</h1>
-    <h3>&mdash;Best Plants Selection&mdash;</h3>
+    <h1 align="center">LUCKY SHRUB</h1>
+    <h3 align="center">&mdash;Best Plants Selection&mdash;</h3>
 </div>
 
 <p align="center">
-Launch the utility: <br/>
+<br/>
 <img src="https://i.imgur.com/14bFYEi.png" height="100%" width="100%" alt="Luckyscrub-homepage"/>
 <br />
 
