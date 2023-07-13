@@ -45,6 +45,20 @@ a {
     margin: 40px;
 }
 
+.img_block {
+    
+   
+    border-radius: 50px;
+    margin: 40 0 40 0;
+    padding: 0 0 10 0;
+}
+
+.img_style {
+  display: block;
+  width: 100%;
+  
+}
+
 
 .button {
     background-color: rgb(233, 234, 235);
